@@ -10,7 +10,7 @@ Currently working as a Junior Developer in a NVOCC Software Company, looking for
 ### <h2>Currently studying 📚📕</h2> 
 - Javascript
 - C#
-- Type script
+- Angular
 
   
 
