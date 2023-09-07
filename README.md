@@ -1,6 +1,6 @@
 
 ### <h2>About me 👨‍🦰</h2>
-Currently working as a Junior develop on a NVOCC Software, looking for challenges to grow in the tech industry.
+Currently working as a Junior Developer in a NVOCC Software Company, looking for challenges to grow in the tech industry.
 ### <h2>Work skills 👨‍💻💻</h2> 
 - Angular
 - C#
