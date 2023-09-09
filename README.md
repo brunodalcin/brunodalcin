@@ -4,14 +4,16 @@
 Currently working as a Junior Developer in a NVOCC Software Company, looking for challenges to grow in the tech industry.
 ### <h2>Work skills 👨‍💻💻</h2> 
 - Angular
-- C#
+- .NET
 - Delphi + Report builder
 - SQL Server
 - HTML/CSS
 ### <h2>Currently studying 📚📕</h2> 
 - Javascript
-- C#
+- .NET
 - Angular
+- SOLID
+- DDD 
   
 
 
