@@ -4,15 +4,15 @@
 Currently working as a Fullstack Junior Developer in a freight forwarding system, looking for challenges to grow in the tech industry.
 ### <h2>Job skills 👨‍💻💻</h2> 
 - Angular
-- .NET
+- C#
 - Delphi
 - Report builder
 - SQL Server
 - HTML/CSS
 ### <h2>Currently studying 📚📕</h2> 
-- Javascript
-- .NET
-- Angular
+- ASP.NET
+- Entity Framework
+- MVC
 - SOLID
 - DDD 
   
