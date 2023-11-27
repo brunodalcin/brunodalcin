@@ -9,12 +9,7 @@ Currently working as a Fullstack Junior Developer in a freight forwarding system
 - Report builder
 - SQL Server
 - HTML/CSS
-### <h2>Currently studying 📚📕</h2> 
-- ASP.NET
-- Entity Framework
-- MVC
-- SOLID
-- DDD 
+
   
 
 
