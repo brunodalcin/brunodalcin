@@ -6,13 +6,12 @@ Currently working as a Developer in a agriculture management system.
 - Angular
 - C#
 - Delphi
-- Report builder
-- SQL Server
-- Oracle
-- PostgreSQL
-- Firebird
 - Report Builder
 - Fast Reports
+- SQL Server
+- Oracle PL/SQL
+- PostgreSQL
+- Firebird
 - HTML/CSS
 
   
