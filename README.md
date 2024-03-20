@@ -1,7 +1,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodalcin&layout=compact&theme=dark) 
 ### <h2>About me 👨‍🦰</h2>
-Currently working as a Developer in an agriculture management system.
+Currently working as a Developer in agribusiness solutions.
 ### <h2>Job skills 👨‍💻💻</h2> 
 - Angular
 - C#
