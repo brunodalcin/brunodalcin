@@ -1,16 +1,16 @@
 ### <h2>About me 👨‍🦰</h2>
-Currently working full-time as a developer in agribusiness solutions and doing web design freelancing.
+Currently working full-time as a developer in agribusiness solutions.
 ### <h2>Studying 🦾📖</h2> 
-- Wordpress
-- Elementor
-- CSS
-- Javascript
-- Design Principles
-- UI/UX Design
-- Figma
+- Linux
+- Python
+- Data Modeling
+- Data Pipeline
+- ETL Processes 
+- Git
+- CI/CD
 ### <h2>Job skills 👨‍💻💻</h2> 
 - C# / Xamarin
-- Delphi 7
+- Delphi 7 / 2006
 - Fast Reports
 - SQL Server
 - Oracle PL/SQL
