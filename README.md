@@ -1,4 +1,4 @@
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodalcin&layout=compact&theme=dark)
 ### <h2>About me 👨‍🦰</h2>
 Currently working full-time as a developer in agribusiness solutions. <br>
 I'm expanding my knowledge in data engineering and data science, focusing on the concepts and tools essential for building reliable data-driven systems.
