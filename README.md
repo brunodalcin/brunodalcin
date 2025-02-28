@@ -2,9 +2,6 @@
 
 🚀 Experience in **web**, **desktop**, and **mobile** development.
 
-📍 **Currently:** Working as a Software Developer, developing agribusiness systems and mobile applications while improving client-side and server-side functionalities.
-
-
 ## 🛠️ Tech & Tools
 <p text-align="center" align="center">
   
